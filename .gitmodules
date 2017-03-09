@@ -1,0 +1,3 @@
+[submodule "cremi_python"]
+	path = cremi_python
+	url = https://github.com/cremi/cremi_python.git
